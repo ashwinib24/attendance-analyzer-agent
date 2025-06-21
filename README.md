@@ -1,5 +1,7 @@
 # attendance-analyzer-agent
 AI-powered attendance report generator
+# My updated local README content
+This project analyzes attendance and exports it to Google Sheets.
 
 Attendance Analyzer Agent
 An AI-powered autonomous agent that reads raw attendance data from a CSV file, classifies entries as **Present**, **Late**, or **Absent** based on predefined time thresholds, and generates a structured attendance report automatically — no manual effort required.
@@ -55,5 +57,9 @@ Sample Output
 Name	   Status	   Check-in Time
 Alice	   Present	   08:55:00
 Bob	     Late	       09:15:00
+<<<<<<< HEAD
 Charlie	 Absent	        —
 
+=======
+Charlie	 Absent	        —
+>>>>>>> 2b9f6a9 (Final version with Google Sheets integration and cleaned .gitignore)
